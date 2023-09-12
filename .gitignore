@@ -1,0 +1,5 @@
+# Ignore PyCharm idea directory
+/Users/jeffreylueken/Documents/GitHub/100-days-of-code/.idea/
+
+# Ignore OS Files
+/.DS_Store
