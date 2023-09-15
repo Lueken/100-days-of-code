@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab3febf-bf65-4cce-905d-02606fc1fabe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/001_Band_Name_Generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/Exercise - Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/Variable Naming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/Variables Start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Python Primitive Data Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Exercise - Data Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Type Error, Tpe Checking and Type Conversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_001/001_Band_Name_Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/002_Tip_Calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_001/Exercise - Printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/Exercise - Printing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_001/Exercise - Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Python Primitive Data Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Python Primitive Data Types.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
