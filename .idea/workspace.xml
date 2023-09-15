@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab3febf-bf65-4cce-905d-02606fc1fabe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_001/Exercise - Printing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_001/Exercise - Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/001_Band_Name_Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/Exercise - Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/Variable Naming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/Variables Start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Python Primitive Data Types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_001/Exercise 1 - Printing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_001/001_Band_Name_Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/002_Tip_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_001/Exercise - Printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_001 - Beginner - Working with Variables in Pything to Manage Data/Exercise - Printing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_001/Exercise - Variables.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2VM0zS3hgG3ZkE0hoQKbdli28co" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -32,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/31686/AppData/Local/anaconda3/Scripts/conda.exe",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/31686/AppData/Local/anaconda3/Scripts/conda.exe&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
