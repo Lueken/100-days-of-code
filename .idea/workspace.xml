@@ -5,10 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab3febf-bf65-4cce-905d-02606fc1fabe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Exercise - Data Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Type Error, Tpe Checking and Type Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_003 - Beginner - Control Flow and Logical Operators/003_Treasure_Island.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_004 - Beginner - Randomisation and Python Lists/004_Rock_Paper_Scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_005 - Beginner - Python Loops/005_Password_Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_006 - Beginner - Python Functions &amp; Karel/006_Escape_the_Maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_007 - Beginner - Hangman/007_Hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_008 - Beginner - Function Parameters &amp; Caesar Cipher/008_Caesar_Cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_009 - Beginner - Dictionaries, Nesting and the Secret Auction/009_Secret_Auction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_010 - Beginner - Functions with Outputs/010_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_011 - Beginner - The Blackjack Capstone Project/011_Blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_012 - Beginner - Scope &amp; Number Guessing Game/012_Guessing_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_013 - Beginner - Debugging - How to Find and Fix Errors in your Code/013_Debugging_FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_013 - Beginner - Debugging - How to Find and Fix Errors in your Code/013_Debugging_Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_013 - Beginner - Debugging - How to Find and Fix Errors in your Code/013_Debugging_Odd_or_Even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_014 - Beginner - Higher Lower Game Project/014_Higher_Lower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_015 - Intermediate - Local Development Environment Setup &amp; the Coffee Machine/015_PyCharm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_016 - Intermediate - Object Oriented Programming (OOP)/016_Coffee_Machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_017 - Intermediate - The Quiz Project &amp; the Benefits of OOP/017_Quiz_Project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_018 - Intermediate - Turtle &amp; the Graphical User Interface (GUI)/018_Turtle_1_Draw_A_Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_019 - Intermediate - Instances, State and Higher Order Functions/019_Etch-A-Sketch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_020 - Intermediate - Build the Snake Game part 1 - Animation &amp; Coordinates/020_Snake_Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Python Primitive Data Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_002 - Beginner - Understanding Data Types and How to Manipulate Strings/Python Primitive Data Types.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
